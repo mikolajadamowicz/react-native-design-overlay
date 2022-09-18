@@ -1,0 +1,23 @@
+{
+  "name": "react-native-design-overlay-example",
+  "displayName": "DesignOverlay Example",
+  "expo": {
+    "name": "react-native-design-overlay-example",
+    "slug": "react-native-design-overlay-example",
+    "description": "Example app for react-native-design-overlay",
+    "privacy": "public",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "jsEngine": "hermes",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
