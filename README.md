@@ -1,5 +1,7 @@
 # react-native-design-overlay
+
 Overlay a jpg or png on top of your screen to assist you in laying out your components. You can set the image to a see-through opacity and line up your components to match the design perfectly.
+
 ## Installation
 
 ```sh
@@ -9,7 +11,7 @@ npm install react-native-design-overlay
 ## Usage
 
 ```js
-import { multiply } from "react-native-design-overlay";
+import DesignOverlay from 'react-native-design-overlay';
 
 // ...
 
